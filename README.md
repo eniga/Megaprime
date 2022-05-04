@@ -10,9 +10,9 @@ A sample api to return all megaprime numbers given a maximum number
 ```
 
 ## Test
-```
+
 * [https://megaprimes.azurewebsites.net/swagger]
-```
+
 
 ## Contributors
 
